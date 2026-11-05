@@ -14,7 +14,7 @@ An enterprise-grade, end-to-end healthcare analytics and hospital operations sol
 ## 📸 Dashboard Preview
 | Executive Overview | Pharmacy & Financial Deep Dive | Clinical & Patient Flow |
 | :---: | :---: | :---: |
-| ![Page 1](screenshots/page-1-overview.png) | ![Page 2](screenshots/page-2-pharmacy.png) | ![Page 3](screenshots/page-3-clinical.png) |
+| ![Page 1](Dashboard 1 executive overview.png) | ![Page 2](Dashboard 1 executive overview.png) | ![Page 3](Dashboard 1 executive overview.png) |
 
 ---
 
